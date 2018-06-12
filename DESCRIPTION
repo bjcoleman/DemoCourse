@@ -8,3 +8,4 @@ Description: This package is a starting point for in-class activities, demos, tu
     assignments, etc. for a course
 Encoding: UTF-8
 LazyData: true
+Suggests: testthat
