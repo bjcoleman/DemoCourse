@@ -1,0 +1,10 @@
+Package: DemoCourse
+Type: Package
+Title: Package to Suipport a Demo Course
+Version: 0.1.0
+Author: Ben Coleman
+Maintainer: Ben Coleman <colemanb@moravian.edu>
+Description: This package is a starting point for in-class activities, demos, tutorials
+    assignments, etc. for a course
+Encoding: UTF-8
+LazyData: true
